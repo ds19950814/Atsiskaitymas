@@ -1,0 +1,76 @@
+
+.img-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 550px;
+  width: 100%;
+  background-color: red;
+  background-image: url(images/bg-masthead.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.img-left {
+  background-image: url(images/bg-showcase-2.jpg);
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  background-size: cover;
+}
+
+.img-right1 {
+  background-image: url(images/bg-showcase-1.jpg);
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-right3 {
+  background-image: url(images/bg-showcase-3.jpg);
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bot-img-1 {
+  background-image: url(images/testimonials-1.jpg);
+  width: 150px;
+  height: 150px;
+  border-radius: 50% 50%;
+  background-size: contain;
+  background-position: center;
+  box-shadow: 5px black;
+}
+
+.bot-img-2 {
+  background-image: url(images/testimonials-2.jpg);
+  width: 150px;
+  height: 150px;
+  border-radius: 50% 50%;
+  background-size: contain;
+  background-position: center;
+}
+
+.bot-img-3 {
+  background-image: url(images/testimonials-3.jpg);
+  width: 150px;
+  height: 150px;
+  border-radius: 50% 50%;
+  background-size: contain;
+  background-position: center;
+}
+
+.bottom-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 100%;
+  background-color: red;
+  background-image: url(images/bg-masthead.jpg);
+  background-size: cover;
+  background-position: center;
+}
